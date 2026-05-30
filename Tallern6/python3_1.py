@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Port Forwarder - Python 3 (asyncio)
-Migrado desde Python 2.7 (asyncore) al estilo moderno con asyncio.
-
+Migrado desde Python 2.7 (asyncore)
 Uso:
     python port_forwarder.py --local-port 8888
     python port_forwarder.py --local-port 8888 --remote-host ejemplo.com --remote-port 80
